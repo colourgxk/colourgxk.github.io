@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Put a site title here</title>
-    <link>https://www.yourbaseurl.com/posts/</link>
+    <link>https://colourgxk.github.io/posts/</link>
     <description>Recent content in Posts on Put a site title here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yourbaseurl.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://colourgxk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>https://www.yourbaseurl.com/archive/examplepost/</link>
+      <link>https://colourgxk.github.io/archive/examplepost/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yourbaseurl.com/archive/examplepost/</guid>
+      <guid>https://colourgxk.github.io/archive/examplepost/</guid>
       <description>&lt;p&gt;Content text goes here&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Example Post</title>
-      <link>https://www.yourbaseurl.com/archive/examplepost/</link>
+      <link>https://colourgxk.github.io/archive/examplepost/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yourbaseurl.com/archive/examplepost/</guid>
+      <guid>https://colourgxk.github.io/archive/examplepost/</guid>
       <description>&lt;p&gt;Content text goes here&amp;hellip;&lt;/p&gt;</description>
     </item>
     
